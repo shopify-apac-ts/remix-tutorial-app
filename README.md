@@ -1,5 +1,5 @@
-# This is reproducing the following Remix official tutorial.
-[30 min. Tutorial](https://remix.run/docs/en/main/start/tutorial)
+# This is reproducing Remix official [30 min. tutorial](https://remix.run/docs/en/main/start/tutorial).
+
 
 If you don't have time or want a quicker start, 👉 try [5 min. Quick start](https://remix.run/docs/en/main/start/quickstart) first.
 
